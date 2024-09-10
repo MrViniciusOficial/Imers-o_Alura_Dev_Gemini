@@ -1,4 +1,4 @@
-Desvendando o Mundo da Programação: Uma Busca Rápida e Divertida!
+Desvendando o Mundo da Programação: Uma Busca Rápida e Divertida! - Imersão Dev com Google Gemini
 
 Aqui está uma sugestão para adicionar uma explicação sobre as linguagens e a plataforma Alura, mantendo o tom descontraído e informativo:
 
